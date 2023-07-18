@@ -534,6 +534,18 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.grid {
+  display: grid;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.place-items-center {
+  place-items: center;
+}
+
 .text-6xl {
   font-size: 3.75rem;
   line-height: 1;
